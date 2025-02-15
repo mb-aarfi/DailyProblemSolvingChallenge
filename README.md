@@ -3,8 +3,8 @@ Daily problem-solving challenge to enhance coding skills and logical thinking.
 
 ## Progress Table
 
-| Date       | Problems                                                              | Solutions                                   |
-|------------|-----------------------------------------------------                  |--------------------------------------------|
+| Date             | Problems                                                                        | Solutions                                  |
+|------------------|---------------------------------------------------------------                  |--------------------------------------------|
 | 15-02-2025 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [SetMatrixZeroes.java](./setmatrixzeroes.java) |
 
 
