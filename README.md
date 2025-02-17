@@ -6,6 +6,8 @@ Daily problem-solving challenge to enhance coding skills and logical thinking.
 | Date             | Problems                                                                        | Solutions                                  |
 |------------------|---------------------------------------------------------------                  |--------------------------------------------|
 | 15-02-2025 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [SetMatrixZeroes.java](./setmatrixzeroes.java) |
+| 16-02-2025 |  |  |
+| 17-02-2025 |  |  |
 
 
 ---
