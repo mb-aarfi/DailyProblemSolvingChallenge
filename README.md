@@ -11,6 +11,7 @@ Daily problem-solving challenge to enhance coding skills and logical thinking.
 | 10-03-2025 | [Sort List](https://leetcode.com/problems/sort-list/description/)  | [SortList.java](./SortList.java)  |
 | 10-03-2025 | [Reverse LinkedList](https://leetcode.com/problems/reverse-linked-list/description/)  | [ReverseLinkedList1.java](./ReverseLinkedList1.java)  |
 | 10-03-2025 | [Reverse LinkedList II](https://leetcode.com/problems/reverse-linked-list-ii/description/)  | [ReverseLinkedList2.java](./ReverseLinkedList2.java)  |
+| 11-03-2025 | [Palindrome LinkedList](https://leetcode.com/problems/palindrome-linked-list/description/)  | [PalindromeLinkedList.java](./PalindromeLinkedList.java)  |
 
 
 ---
